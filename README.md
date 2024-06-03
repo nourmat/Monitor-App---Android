@@ -1,5 +1,7 @@
 # Android Monitor App
 This app alows you to turn your smart phone into a security camera, by setting the IP address to that of the server
+
+
 https://www.youtube.com/watch?v=xnH7BTj7yJc
 
 ## Monitor App
